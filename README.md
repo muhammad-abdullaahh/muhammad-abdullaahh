@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hello, I'm Muhammad Abdullah
 
+🎓 Aspiring Software Engineer  
+💻 Passionate C# & Java Developer  
+🌐 Frontend Explorer (HTML, CSS, Bootstrap)
+
+---
+
+## 🧠 Tech Stack
+- **Languages:** C#, Java  
+- **Frontend:** HTML, CSS, Bootstrap  
+- **Core Skills:** Object-Oriented Programming (OOP), UI Design & Development
+
+---
 <!--
-**muhammad-abdullaahh/muhammad-abdullaahh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 Highlighted Projects
+- **C# OOP Mini App** – [Repo Link]  
+  A Windows Forms application showcasing key OOP principles: inheritance, polymorphism, and encapsulation.
 
-Here are some ideas to get you started:
+- **Java Console Application** – [Repo Link]  
+  A logic-driven program built with core Java syntax and OOP architecture.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- **Responsive Bootstrap Website** – [Repo Link]  
+  A modern, mobile-first web design using HTML, CSS, and Bootstrap components.
+
+---
 -->
+## 📫 Connect with Me
+- 🔗 [LinkedIn](https://www.linkedin.com/in/muhammad-abdullah2005/)
