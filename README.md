@@ -1,13 +1,13 @@
 # 👋 Hello, I'm Muhammad Abdullah
 
 🎓 Aspiring Software Engineer  
-💻 Passionate C# & Java Developer  
+💻 Passionate C#, Java & Python developer
 🌐 Frontend Explorer (HTML, CSS, Bootstrap)
 
 ---
 
 ## 🧠 Tech Stack
-- **Languages:** C#, Java  
+- **Languages:** C#, Java, Python
 - **Frontend:** HTML, CSS, Bootstrap  
 - **Core Skills:** Object-Oriented Programming (OOP), UI Design & Development
 
