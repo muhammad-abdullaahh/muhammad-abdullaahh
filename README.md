@@ -9,7 +9,7 @@
 ## 🧠 Tech Stack
 - **Languages:** C#, Java, Python
 - **Frontend:** HTML, CSS, Bootstrap  
-- **Core Skills:** Object-Oriented Programming (OOP), UI Design & Development
+- **Core Skills:** Object-Oriented Programming (OOP), UI Design & Development, Data Structures & Algorithms (DSA), Digital Logic Design (DLD)
 
 ---
 <!--
