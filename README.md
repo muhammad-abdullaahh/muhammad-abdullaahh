@@ -102,11 +102,11 @@ Built to simulate a real-world SOC environment — because the best way to under
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammad-abdullaahh&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-abdullaahh&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
+![GitHub Streak](https://streak-stats.demolab.com?user=muhammad-abdullaahh&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
 
 </div>
 
@@ -127,8 +127,8 @@ Built to simulate a real-world SOC environment — because the best way to under
 
 | Platform | Link |
 |----------|------|
-| 💼 LinkedIn | [linkedin.com/in/yourprofile](https://linkedin.com) |
-| 🐙 GitHub | [github.com/yourusername](https://github.com) |
+| 💼 LinkedIn | [linkedin.com/in/yourprofile](https://www.linkedin.com/in/muhammad-abdullah2005) |
+| 🐙 GitHub | [github.com/yourusername]([https://github.com](https://github.com/muhammad-abdullaahh)) |
 | 📍 Location | Karachi, Pakistan 🇵🇰 |
 
 </div>
@@ -137,7 +137,6 @@ Built to simulate a real-world SOC environment — because the best way to under
 
 <div align="center">
 
-*"The quieter you become, the more you are able to hear — and the better you can hack."* 🔐
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=58A6FF)
 
