@@ -127,8 +127,8 @@ Built to simulate a real-world SOC environment — because the best way to under
 
 | Platform | Link |
 |----------|------|
-| 💼 LinkedIn | [linkedin.com/in/yourprofile](https://www.linkedin.com/in/muhammad-abdullah2005) |
-| 🐙 GitHub | [github.com/yourusername](https://github.com/muhammad-abdullaahh) |
+| 💼 LinkedIn | [linkedin.com/in/muhammad-abdullah](https://www.linkedin.com/in/muhammad-abdullah2005) |
+| 🐙 GitHub | [github.com/muhammad-abdullah](https://github.com/muhammad-abdullaahh) |
 | 📍 Location | Karachi, Pakistan 🇵🇰 |
 
 </div>
