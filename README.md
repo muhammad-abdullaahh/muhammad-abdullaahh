@@ -24,20 +24,28 @@
 
 ## 🧠 About Me
 
-```python
-class Abdullah:
-    role        = "CS/SE Student & Ethical Hacking Enthusiast"
-    location    = "Karachi, Pakistan 🇵🇰"
-    goal        = "Cybersecurity Engineer / Secure Software Developer"
-    philosophy  = "Learn by building. Break to understand. Ship to prove."
+```C#
+using System;
+using System.Collections.Generic;
 
-    def current_focus(self):
-        return [
+public class Abdullah
+{
+    public string Role { get; set; } = "CS/SE Student & Ethical Hacking Enthusiast";
+    public string Location { get; set; } = "Karachi, Pakistan 🇵🇰";
+    public string Goal { get; set; } = "Cybersecurity Engineer / Secure Software Developer";
+    public string Philosophy { get; set; } = "Learn by building. Break to understand. Ship to prove.";
+
+    public List<string> CurrentFocus()
+    {
+        return new List<string>
+        {
             "Ethical Hacking & Penetration Testing",
             "Secure Web Application Development",
             "Software Design Patterns & Architecture",
             "SOC Engineering & Threat Detection"
-        ]
+        };
+    }
+}
 ```
 
 ---
