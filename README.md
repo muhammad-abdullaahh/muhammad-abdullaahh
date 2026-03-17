@@ -11,6 +11,7 @@
 
 ### `whoami`
 **BSE Student · Offensive Security Researcher · Secure Software Developer**
+
 *Compiling from Karachi, Pakistan — usually past midnight* 🌙
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-abdullah2005/)
