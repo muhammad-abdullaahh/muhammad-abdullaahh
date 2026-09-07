@@ -13,7 +13,6 @@
 - 🔐 Also pursuing a **Diploma in Cyber Security & Digital Forensics** (Aptech Education)
 - 💼 Currently interning as a **Software Engineer** at **ByteCorp Technologies** and as a **Backend Developer** at **Falcon Tech Labs**
 - 🛠️ I like building things end-to-end — from database schema to a working UI
-- 🚀 Strongest project: **KernelFlow**, a CPU scheduling simulator (FastAPI + React)
 - 📍 Based in Karachi, Pakistan
 
 ---
