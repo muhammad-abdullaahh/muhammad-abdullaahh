@@ -60,7 +60,7 @@ Working on backend development using FastAPI, contributing to production-scale a
 </details>
 
 <details>
-<summary>⏱️ <b>KernelFlow</b> — CPU scheduling algorithm simulator (my strongest project 🏆)</summary>
+<summary>⏱️ <b>KernelFlow</b> — CPU scheduling algorithm simulator </summary>
 <br>
 
 - 📊 Implements FCFS, SJF, SRTF, Round Robin, and Priority scheduling
