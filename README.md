@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Muhammad Abdullah
 
-**🎓 Software Engineering Student · 🛠️ Backend & Secure Software Developer**
+**🎓 Software Engineering Student · 🛠️ Backend Developer**
 
 📍 Karachi, Pakistan 🇵🇰
 
